@@ -1,16 +1,11 @@
 import fs from "fs/promises";
 
-const BASE_URL =
-  "https://sigma-admin.ergoplatform.com/api/project-cards";
-
 async function fetchAllProjects() {
   const projects = [];
   let page = 1;
 
   while (true) {
-    const url = `${BASE_URL}?populate=*&pagination[pageSize]=100&pagination[page]=${page}`;
-
-    console.log(`Fetching page ${page}...`);
+    const url = `https://sigma-admin.ergoplatform.com/api/project-cards?populate=*&pagination[pageSize]=100&pagination[page]=${page}`;
 
     const res = await fetch(url);
 
@@ -34,7 +29,8 @@ async function fetchAllProjects() {
           description: attrs.description,
           websiteLink: attrs.websiteLink,
           category: attrs.categories?.projectCategories ?? null,
-          projectCategories: attrs.project_categories?.data?.[0]?.attributes.title ?? null,
+          projectCategories:
+            attrs.project_categories?.data?.[0]?.attributes.title ?? null,
         };
       })
     );
@@ -56,8 +52,8 @@ async function main() {
     const projects = await fetchAllProjects();
 
     projects.sort((a, b) => {
-      const categoryA = a.category ?? "";
-      const categoryB = b.category ?? "";
+      const categoryA = a.projectCategories ?? "";
+      const categoryB = b.projectCategories ?? "";
 
       const categoryCompare = categoryA.localeCompare(categoryB);
 
@@ -75,10 +71,7 @@ async function main() {
       JSON.stringify(projects, null, 2),
       "utf8"
     );
-
-    console.log(`✅ Saved ${projects.length} projects to data/projects.json`);
   } catch (err) {
-    console.error(err);
     process.exit(1);
   }
 }

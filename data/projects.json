@@ -3,1146 +3,1719 @@
     "name": "8bits.at",
     "description": "A pixelated personifcation of the Ergo ecosystem.",
     "websiteLink": "https://8bits.at/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Aneta Wallet",
     "description": "Aneta Wallet is a lightweight mobile device application that allows",
     "websiteLink": "https://play.google.com/store/apps/details?id=io.anetabtc.android",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "anetaBTC",
     "description": "Decentralized, On-chain Wrapped BTC on Ergo and Cardano.",
     "websiteLink": "https://anetabtc.io/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "AuctionCoin",
     "description": "AuctionCoin is a decentralized financial game where tokens are periodically emitted through auctions. The capital acquired from the auctions' proceeds will be used to buy back AuctionCoin tokens from the liquidity pool.",
     "websiteLink": "https://auctioncoin.app/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Azorus",
     "description": "The UTXO Blockchain Intelligence Platform|",
     "websiteLink": "https://azorus.xyz/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Banxa",
     "description": "Convert cryptocurrency to fiat or buy crypto with ease using Banxa. Fast, secure, and compliant fiat-to-crypto solutions trusted by businesses worldwide.",
     "websiteLink": "https://checkout.banxa.com/?coinType=ERG",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "OnRamp/Swap"
+    ]
   },
   {
     "name": "Dappstep",
     "description": "Interactive tutorials for javascript dApp development on Ergo Platform.",
     "websiteLink": "https://play.dappstep.com/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "DxPool",
     "description": "Technology leading blockchain infrastructure service provider.",
     "websiteLink": "https://www.dxpool.com/pool/erg/stat",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Enigma Pool",
     "description": "Enigma Pool is a community oriented grassroots mining pool. 0% pool fees and funded by Ergo Foundation. Please distribute the hashrate. Support decentralization.",
     "websiteLink": "https://enigmapool.com/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Ergo Auction House",
     "description": "Ergo Auction House is a decentralized auction house, secure and",
     "websiteLink": "https://ergoauctions.org/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Ergo Italy",
     "description": "An Italian community dedicated to Ergo's blockchain technology. Made up of Ergonauts, members who love and believe in this fantastic project.",
     "websiteLink": "https://ergoitaly.it/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Ergo NFTS",
     "description": "Website to view information on nfts created on the Ergo blockchain.",
     "websiteLink": "https://ergonfts.org/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Ergo Node Spyder",
     "description": "Ergo Node Spyder captures node information for analytics and reporting on the Ergo network.",
     "websiteLink": "https://ergo.nodespyder.io/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Ergo Pool",
     "description": "The Ergo Pool is a Cardano stake pool that allows you to stake Ada and earn Ergo. The pool is live and currently accepting new delegators.",
     "websiteLink": "https://ergo-pool.com/home",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Ergo Status",
     "description": "Ergo Status is an automated Ergo ecosystem health dashboard. Subscribe to the @ergo_status telegram channel for automated updates.",
     "websiteLink": "http://ergo-status.net/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Ergo URL Wallet",
     "description": "Ergo URL Wallet is an easy-to-use temporary wallet that functions entirely in your browser. Often useful when testing new dev ideas. WARNING: DO NOT USE THIS AS YOUR MAIN WALLET",
     "websiteLink": "https://erg.urlwallet.org/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "ErgoGames",
     "description": "ErgoGames.io is an organization that primarily builds and showcases",
     "websiteLink": "https://www.ergogames.io/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "ErgoPad",
     "description": "ErgoPad is a launch platform for offering token IDOs intended to",
     "websiteLink": "https://ergopad.io/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "ErgoPOS",
     "description": "Point of Sales Terminal In Ergo Blockchain",
     "websiteLink": "https://www.ergopos.io",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Eternaeon",
     "description": "Eternaeon Games is partnering with Ergopad to build a future of gaming on the Ergo Platform. See you in the Metaverse!",
     "websiteLink": "https://www.eternaeon.io/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "F2Pool",
     "description": "The world’s leading cryptocurrency mining pool. Proudly securing",
     "websiteLink": "https://www.f2pool.com/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Fairhash Pool",
     "description": "Ergo mining pool.",
     "websiteLink": "https://ergo.fairhash.org/#",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Flypool",
     "description": "Let's start mining now!",
     "websiteLink": "https://ergo.flypool.org/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "GetBlok",
     "description": "The very first decentralized mining pool on Ergo! This ability will ultimately eliminate centralized mining pools with smart contracts and could ultimately help reduce the risk of 51% attacks and other downfalls that centralization brings.",
     "websiteLink": "https://ergo.getblok.io",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "GrandGambit",
     "description": "Ergo Casino.",
     "websiteLink": "https://www.grandgambit.io/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "LeafPool",
     "description": "Providing fast & stable crypto mining pools since 2017",
     "websiteLink": "https://ergo.leafpool.com/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "LILIUM",
     "description": "A next-generation smart contract platform to mint and launch NFT collections effortlessly.",
     "websiteLink": "https://www.liliumergo.io/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Mind Healer",
     "description": "Find Experts Anonymously to Improve Quality of Your Life",
     "websiteLink": "https://mindhealer.cloud/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Night Owl Casino",
     "description": "Night Owl is the world's first fully decentralized casino.",
     "websiteLink": "https://www.nightowlcasino.io/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "PandaV",
     "description": "A blockchain base access control system can provide a secure way to manage access rights and ownership.",
     "websiteLink": "https://www.pandav.io/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "SigmaExplorer",
     "description": "A purely browser based Ergo explorer using WebAssembly and GraphQL.",
     "websiteLink": "http://sigmaexplorer.org/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "SigUSD Playground",
     "description": "The value of SigRSV can fluctuate depending on ERG price,",
     "websiteLink": "https://sigusd.abchris.xyz/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Simpleexplorer",
     "description": "Ergo Simple Explorer Search addresses, tokens, and transactions",
     "websiteLink": "https://simpleexplorer.codeutxo.com/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "SkyHarbor",
     "description": "The premium NFT marketplace on the Ergo blockchain. Buy and sell",
     "websiteLink": "https://www.skyharbor.io/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Solo Pool",
     "description": "Solo Mining Pools For Professional Miners",
     "websiteLink": "https://erg.solopool.org/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Swamp Audio",
     "description": "A layer 1 on chain royalty management platform and DAO media publisher.",
     "websiteLink": "https://swamp.audio/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Voltpay",
     "description": "Convert cryptocurrency to gift cards instantly. Secure & trusted platform.",
     "websiteLink": "https://voltpay.store/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "OnRamp/Swap"
+    ]
   },
   {
     "name": "Whalesburg Mining Platform",
     "description": "Reborn from the ashes. Proven trustworthy team, new spirit, new",
     "websiteLink": "https://whalesburg.com",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Yoroi",
     "description": "Browser extension light wallet for Cardano and Ergo. Ergo not available in Yoroi for mobile.",
     "websiteLink": "https://yoroi-wallet.com/#/",
-    "category": null
+    "category": null,
+    "projectCategories": [
+      "Archive"
+    ]
   },
   {
     "name": "Bene",
     "description": "Decentralized Fundraising Platform.",
     "websiteLink": "https://ergo.bene.stability.nexus/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "Citadel",
     "description": "A local-first desktop app for interacting with DeFi protocols on the Ergo blockchain. Connects directly to your Ergo node -- no cloud services, no tracking, no middlemen.",
     "websiteLink": "https://github.com/arkadianet/citadel",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "Crux Finance",
     "description": "Track your portolio and interact with DeFi in one place. Set alerts, place orders, monitor P&L, and even print tax reports.",
     "websiteLink": "https://cruxfinance.io/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "Crystalpool",
     "description": "Decentralized Exchange.",
     "websiteLink": "https://crystalpool.cc/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "Degens World",
     "description": "The ultimate hub for blockchain degens across multiple chains. Discover dapps, connect with communities, and stay updated with the latest in crypto and AI.",
     "websiteLink": "https://degens.world/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "Duckpools",
     "description": "Decentralized Lending on Ergo.",
     "websiteLink": "https://www.duckpools.io/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "Ergo Raffle",
     "description": "Ergo Raffle is an incentivized crowdfunding platform for the community to gather funding for their ideas.",
     "websiteLink": "https://ergoraffle.com/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "ERGODEX",
     "description": "A non-custodial, decentralised exchange that allows a quick, effortless and secure transfer of liquidity between the Ergo and Cardano networks.",
     "websiteLink": "https://ergodex.io/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "ErgoNames",
     "description": "A human-readable name for your Ergo wallet — an NFT you own for life. No renewals, no expiry, no middlemen able to take it back.",
     "websiteLink": "https://www.ergonames.io/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "Ergone",
     "description": "Decentralised Marketing Powered by Community.",
     "websiteLink": "https://www.ergone.io/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "Etcha",
     "description": "Decentralized options on Ergo. Write calls and puts on crypto, commodities, and indices — peer-to-peer or through permissionless liquidity pools. Physical delivery of real tokens. Cash settlement in stablecoins.",
     "websiteLink": "https://ergo-p2p-options-frontend-web.vercel.app/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "Exle",
     "description": "A P2P lending platform with easy to use tools to borrow and lend",
     "websiteLink": "https://exle.io/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "Gluon",
     "description": "A novel autonomous crypto-backed stablecoin protocol.",
     "websiteLink": "https://gluon.gold/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "Hodlcoin",
     "description": "Self-Stabilizing Staking vaults where the price is mathematically proven to always increase!",
     "websiteLink": "https://app.hodlcoin.co.in/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "Mew Finance",
     "description": "The cutest decentralized finance on the Ergo Blockchain!",
     "websiteLink": "https://mewfinance.com/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "Paideia",
     "description": "Paideia is an Ergopad incubated project, bringing a full suite of",
     "websiteLink": "https://paideia.im/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "PhoenixFi",
     "description": "Self-Stabilizing Staking vaults where the price is mathematically proven to always increase!",
     "websiteLink": "https://www.phoenixfi.app/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "Rosen Bridge",
     "description": "Rosen Bridge, an open-source protocol for cross-chain asset transfers.",
     "websiteLink": "https://rosen.tech/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "SigmaFi",
     "description": "A set of decentralized financial contracts which leverage the eUTXO model to allow for easy to use P2P DeFi.",
     "websiteLink": "https://sigmafi.app/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "SigmaO",
     "description": "The goal of the project is to provide a smart contract allowing to issue tokens behaving like an option.",
     "websiteLink": "https://sigmao.cc/",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "SigmaUSD",
     "description": "Experience the latest advancements in Stablecoins by buying and",
     "websiteLink": "https://sigmausd.io",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "TokenJay",
     "description": "TokenJay empowers Ergo's token ecosystem.",
     "websiteLink": "https://tokenjay.app/app/#",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": "TrufflΣ",
     "description": "TrufflΣ is a fast, self-custodial mobile trading app and wallet for the Ergo blockchain. It's built for traders who want to act quickly without giving up control.",
     "websiteLink": "https://github.com/FlyingPig5/truffle",
-    "category": "dApps"
+    "category": "dApps",
+    "projectCategories": [
+      "Updated-1784018069"
+    ]
   },
   {
     "name": " hergmes",
     "description": "Ergo node messaging layer.",
     "websiteLink": "https://github.com/arobsn/hergmes",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "DeCo Ergo Education",
     "description": "DeCo is an education program for both experienced developers and",
     "websiteLink": "https://github.com/DeCo-Education",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "Ergo Appkit",
     "description": "A Library for Polyglot Development of Ergo Applications",
     "websiteLink": "https://github.com/ergoplatform/ergo-appkit",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "Ergo Basic Template",
     "description": "A modular React template for building applications on the Ergo blockchain. This template provides a structured foundation with reusable components for wallet connection, token display, and a beautiful dashboard interface.",
     "websiteLink": "https://github.com/ERGnomes/ergo-basic-template",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "Ergo dApp Connector React Package",
     "description": "The package contains a component that is an Ergo dApp Connector,",
     "websiteLink": "https://github.com/nightowlcasino/dApp-connector-react-package",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "Ergo Explorer API",
     "description": "Open API for Ergo Explorer",
     "websiteLink": "https://api.ergoplatform.com/api/v1/docs/",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "Ergo Headless dApp Framework",
     "description": "The premier Rust framework for developing Ergo Headless dApps. The",
     "websiteLink": "https://github.com/ergoplatform/ergo-headless-dapp-framework",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "Ergo Knowledge Base (EKB)",
     "description": "MCP server for Ergo blockchain development. Semantic search across 570+ documents, 65 ecosystem projects, EIPs, ErgoScript reference, API references, and cookbook recipes.",
     "websiteLink": "https://ergo-knowledge-base.vercel.app/",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "ergo lib go",
     "description": "Go wrapper around C bindings for ErgoLib from sigma-rust",
     "websiteLink": "https://github.com/sigmaspace-io/ergo-lib-go",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "Ergo Python Appkit",
     "description": "This is a wrapper around Ergo's appkit, which is based on",
     "websiteLink": "https://github.com/ergo-pad/ergo-python-appkit",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "ergoc",
     "description": "A modern CLI compiler for ErgoScript, the smart contract language for the Ergo blockchain.",
     "websiteLink": "https://github.com/arobsn/ergoc",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "ergonnection-go",
     "description": "A Go implementation of the Ergo blockchain P2P protocol.",
     "websiteLink": "https://github.com/mgpai22/ergonnection-go",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "ErgoScript Compiler and Language Server",
     "description": "A command-line compiler and Language Server Protocol (LSP) implementation for ErgoScript, the smart contract language of the Ergo blockchain.",
     "websiteLink": "https://github.com/Luivatra/ergoscript-compiler-lsp",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "ErgoScript for Zed",
     "description": "Syntax highlighting and Language Server Protocol (LSP) support for ErgoScript, the smart contract language for the Ergo blockchain.",
     "websiteLink": "https://github.com/Luivatra/ergoscript-zed-extension",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "ErgoScript Visual Studio Support",
     "description": "Language support features for ErgoScript in VS Code - by GuapSwap",
     "websiteLink": "https://marketplace.visualstudio.com/items?itemName=guapswap.vscode-ergoscript-language-support",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "ErgoWatch API",
     "description": "ErgoWatch consists of a chain indexer (the \"watcher\") and an API",
     "websiteLink": "https://ergo.watch/api/v0/docs",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "Ergpy",
     "description": "A python-jvm wrapper for interacting with the Ergo blockchain.",
     "websiteLink": "https://pypi.org/project/ergpy/",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "escript online",
     "description": "ErgoScript Compiler.",
     "websiteLink": "https://escript.online/",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "Fleet SDK",
     "description": "Fleet (Fluent Ergo Toolset) is a comprehensive TypeScript SDK for the Ergo Platform, designed to provide a seamless, fluent, and flexible approach to writing off-chain and on-chain code.",
     "websiteLink": "https://github.com/fleet-sdk",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "FleetSharp",
     "description": "FleetSharp is a C# library for building transactions on the Ergo blockchain, inspired by the excellent TypeScript fleet-sdk.",
     "websiteLink": "https://github.com/pulsarz/FleetSharp",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "Sigma Rust",
     "description": "Rust implementation of ErgoScript cryptocurrency scripting",
     "websiteLink": "https://github.com/ergoplatform/sigma-rust",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "sigma_rb",
     "description": "Ruby wrapper around C bindings for ErgoLib from Sigma-Rust.",
     "websiteLink": "https://github.com/thedlop/sigma_rb",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": "tokenjay api services",
     "description": "TokenJay provides an EIP-21 compliant tokens verifier API that you can integrate into your apps.",
     "websiteLink": "https://api.tokenjay.app/swagger-ui/index.html;jsessionid=59429AD4DF081E2E3450C2834095D427?attribute=redirectWithRedirectView",
-    "category": "Dev Tools"
+    "category": "Dev Tools",
+    "projectCategories": [
+      "Dev"
+    ]
   },
   {
     "name": " BetterMoneyLabs",
     "description": "Free Banking for Everyone!",
     "websiteLink": "https://github.com/BetterMoneyLabs",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "4EYES Consulting",
     "description": "Consulting and Auditing group.",
     "websiteLink": "https://github.com/4EYESConsulting",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "AVL Oracle Pool",
     "description": "Multi-feed price oracle on Ergo.",
     "websiteLink": "https://multi-oracle-dashboard.vercel.app/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "Ebiome",
     "description": "Real-time Ergo blockchain metrics and historical ecosystem analytics.",
     "websiteLink": "https://ebiome.cc/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "Ergexplorer",
     "description": "Your go to resource for on-chain data on Ergo.",
     "websiteLink": "https://ergexplorer.com/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "Ergo Docs",
     "description": "A comprehensive resource for learning development on the Ergo blockchain.",
     "websiteLink": "https://docs.ergoplatform.com/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "Ergo Explorer",
     "description": "Your go to resource for on-chain data on Ergo.",
     "websiteLink": "https://explorer.ergoplatform.com/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "Ergo Tokenautics",
     "description": "A robust, Python-based utility designed to facilitate in-depth analysis of token distribution on the Ergo network.",
     "websiteLink": "https://babygrenade.github.io/ergo-tokenautics-frontend",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "Ergo Tokens",
     "description": "Website to view information on tokens created on the Ergo blockchain.",
     "websiteLink": "https://ergotokens.org/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "Ergo Transcripts",
     "description": "Transcribing Ergo ecosystem videos into searchable, discoverable knowledge. Community calls, AMAs, technical discussions, and conference talks—from 2019 to present.",
     "websiteLink": "https://ergo-transcripts.vercel.app/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "Ergo Tutorials",
     "description": "This website has been created by the Ergo community for learning how to interact with the Ergo ecosystem. Do not hesitate to use and share the tutorials and videos, they are created for that purpose.",
     "websiteLink": "https://ergotutorials.com/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "Ergo Wallet Statement",
     "description": "Ergo Wallet Dashboard",
     "websiteLink": "https://ergo-wallet-statement.vercel.app/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "ErgoFaucet",
     "description": "ErgoFaucet is a Faucet service that aims to enable anyone to gain assets(Erg, Tokens) needed for testing most beta Ergo Projects on Mainnet or Testnet networks.",
     "websiteLink": "https://ergofaucet.org/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "Ergomempool",
     "description": "Real-time Ergo Blockchain Mempool Visualizer.",
     "websiteLink": "https://ergomempool.com/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "Ergonodes",
     "description": "Ergonodes discovers the size of the Ergo network by finding all nodes participating in it.",
     "websiteLink": "https://ergonodes.net/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "ErgoWatch",
     "description": "Ergo Watch is a blockchain stats and monitoring utility that allows",
     "websiteLink": "https://ergo.watch/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "NodeView",
     "description": "The decentralized blockchain explorer for Ergo.",
     "websiteLink": "http://nodeview.xyz/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "Oracle Pool Stats",
     "description": "Tracking published datapoint and refresh transactions.",
     "websiteLink": "https://error1100.github.io/oracle-stats/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "RankMyWallet",
     "description": "Realtime blockchain rankings for Cardano and Ergo.",
     "websiteLink": "https://rankmywallet.com/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "Sigmaspace",
     "description": "Your go to resource for on-chain data on Ergo.",
     "websiteLink": "https://sigmaspace.io/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "Stability Nexus",
     "description": "An ecosystem for people who care about a more stable world.",
     "websiteLink": "https://stability.nexus/",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "The Ergonaut Handbook",
     "description": "Community gathered resources for the Ergo blockchain.",
     "websiteLink": "https://ergonaut.space/en/home",
-    "category": "Explore"
+    "category": "Explore",
+    "projectCategories": [
+      "Explore"
+    ]
   },
   {
     "name": "Blitz TCG",
     "description": "A trading card game built on Ergo.",
     "websiteLink": "https://www.blitz-tcg.com/",
-    "category": "Metaverse"
+    "category": "Metaverse",
+    "projectCategories": [
+      "Gaming"
+    ]
   },
   {
     "name": "CyberRace",
     "description": "The ultimate NFT creature racing experience. Train your digital beasts, compete in high-stakes races, and climb the seasonal leaderboards.",
     "websiteLink": "https://nft-races.vercel.app/",
-    "category": "Metaverse"
+    "category": "Metaverse",
+    "projectCategories": [
+      "Gaming"
+    ]
   },
   {
     "name": "Cyberverse",
     "description": "A browser-based cyberpunk MMORPG for Web3 punks.",
     "websiteLink": "https://www.cyberversegame.io/",
-    "category": "Metaverse"
+    "category": "Metaverse",
+    "projectCategories": [
+      "Gaming"
+    ]
   },
   {
     "name": "GAME OF PROMPTS",
     "description": "A competitive platform where creators design game-services to evaluate AI solvers, and players build solver-services to maximize their scores — all recorded and verified on-chain.",
     "websiteLink": "https://game-of-prompts.github.io/",
-    "category": "Metaverse"
+    "category": "Metaverse",
+    "projectCategories": [
+      "Gaming"
+    ]
   },
   {
     "name": "GladiatERG",
     "description": "GladiatERG is an AI-powered gladiator battle royale on the Ergo blockchain. 4 real players each pay 5 ERG and write a strategy prompt (up to 280 characters). An AI interprets each strategy to fight on your behalf. The last gladiator standing wins 18 ERG.",
     "websiteLink": "https://gladiaterg.duckdns.org/",
-    "category": "Metaverse"
+    "category": "Metaverse",
+    "projectCategories": [
+      "Gaming"
+    ]
   },
   {
     "name": "Provably Fair Games",
     "description": "Play classic card and dice games with blockchain-verified randomness. No wallet needed, no signup required, completely free.",
     "websiteLink": "https://provably-fair-games.vercel.app/",
-    "category": "Metaverse"
+    "category": "Metaverse",
+    "projectCategories": [
+      "Gaming"
+    ]
   },
   {
     "name": "Sigma Valley",
     "description": "Sigma Valley is a caricaturesque and up-to-date visualization of what is happening in the Ergo community.",
     "websiteLink": "https://www.sigmavalley.org/",
-    "category": "Metaverse"
+    "category": "Metaverse",
+    "projectCategories": [
+      "Gaming"
+    ]
   },
   {
     "name": "Space InvadERG",
     "description": "Pay 1ERG to Play, weekly high score wins the pot.",
     "websiteLink": "https://spaceinvaderg.duckdns.org/",
-    "category": "Metaverse"
+    "category": "Metaverse",
+    "projectCategories": [
+      "Gaming"
+    ]
   },
   {
     "name": "2Miners Pool",
     "description": "Ergo mining pool for GPU and ASIC. Regular payments, tutorials,",
     "websiteLink": "https://2miners.com/erg-mining-pool",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "Cruxpool",
     "description": "Crypto-mining pool for beginners and professionals",
     "websiteLink": "https://cruxpool.com/ergo",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "CyberPool",
     "description": "Merged Mining Hub.",
     "websiteLink": "https://cyberpool.io/",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "FenixPool",
     "description": "FenixPool is a public, multi-algorithm cryptocurrency mining pool built for SHA-256, Scrypt, X11, KawPow, Etchash, ZelHash, Autolykos2, and RandomX miners.",
     "websiteLink": "https://fenixpool.com/pools/ergsolo",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "GuapSwap",
     "description": "Decentralized miner profit swapping for Ergo Platform.",
     "websiteLink": "https://github.com/GuapSwap",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "HashBay",
     "description": "Modern, transparent mining with real-time pool insight.",
     "websiteLink": "https://hashbay.io/",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "HeroMiners Pool",
     "description": "CryptoCurrency Mining Pools for Altcoins. We stand for Miners!",
     "websiteLink": "https://ergo.herominers.com/",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "JJPool",
     "description": "PPLNS French Pool.",
     "websiteLink": "https://jjpool.fr/",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "K1 Pool",
     "description": "Our mission is to provide 100% clean and working pool, special",
     "websiteLink": "https://k1pool.com/pool/erg",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "Knight",
     "description": "A mining pool under Open Source Miners.",
     "websiteLink": "https://ntminerpool.com/",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "Korvex",
     "description": "Ergo Mining Pool for Everyone.",
     "websiteLink": "https://korvexpool.com/coin/ergo",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "Kryptex",
     "description": "With Kryptex PPS+ mining pool, you get an honest, stable and predictable income.",
     "websiteLink": "https://pool.kryptex.com/erg",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "Lithos",
     "description": "A decentralized mining pool protocol which uses smart contracts to evaluate miner's work and pay them accordingly. Lithos uses Non-Interactive Share Proofs (NISPs) to efficiently prove a miner's work.",
     "websiteLink": "https://lithos.work/",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "MoneroOcean",
     "description": "Here you can mine Monero or even more profitable coins but still get payments in Monero, the best private cryptocurrency.",
     "websiteLink": "https://moneroocean.stream/",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "NanoPool",
     "description": "Stable, anonymous, user-friendy pool. PPLNS, regular payouts, low comisson.",
     "websiteLink": "https://ergo.nanopool.org/",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "NextPool",
     "description": "A community-driven crypto mining pool that allows users to connect their computers, combine hashing power, and mine cryptocurrencies more efficiently together.",
     "websiteLink": "https://nextpoolmining.com/",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "Sigmanauts Mining Pool",
     "description": "Join our cosmic mining journey and earn rewards through our reliable, efficient mining pool.",
     "websiteLink": "https://ergominers.com/",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "Unicorn Pool",
     "description": "UnicornPool is a world-class mining pool service platform,",
     "websiteLink": "https://www.666pool.com/#/pool-data?coin=ERGO",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "WoolyPooly",
     "description": "We bring money. WoolyPooly is one of the most profitable pools,",
     "websiteLink": "https://woolypooly.com/en/coin/erg",
-    "category": "Mining"
+    "category": "Mining",
+    "projectCategories": [
+      "Mining"
+    ]
   },
   {
     "name": "1010s",
     "description": "Two-way encoded computer generated PNGs that are stored on-chain. An exploration of computation with visualization.",
     "websiteLink": "https://twotens.art/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "ab6x Pixel Map",
     "description": "The Pixel Map is an interactive NFT board. To publish an NFT in a zone you must win 100 pixelCoin by auction at the Ergo Auction House, each auction refers to an area of the board.",
     "websiteLink": "https://ab6x.com/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "AngryFood",
     "description": "The Angriest NFT collection of original ART work and trading cards on ERGO.",
     "websiteLink": "https://angryfoodnft.wixsite.com/home",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Bitmasks",
     "description": "Bitmasks is a cross-chain NFT collection on Ergo and Cardano.",
     "websiteLink": "https://bitmasks.io/#",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "CoinCharacters",
     "description": "A collection of animated avatars representing different cryptos, classified into different categories, mainly based on the MarketCap of the cryptocurrencies at the time of the NFTs launch.",
     "websiteLink": "http://coincharacters.es/index.html",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Cyber Citizens",
     "description": "CyberCitizens is a collection of 2081 unique, randomly generated pixel NFTs living on the Ergo Blockchain. In development is an upcoming game based on the idea of the CyberCity.",
     "websiteLink": "https://cybercitizens.io/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Cyber Petz",
     "description": "Ergo CyberPetz is an NFT collection and each artwork is unique and handcrafted using a cyber / retro theme that gives a very special and different charm.",
     "websiteLink": "https://www.cyberpetz.net/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Dumbeenz",
     "description": "Dumbeenz is a creative and playful NFT collection built on the ergo",
     "websiteLink": "https://www.dumbeenz.com/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "ENFT",
     "description": "Share your art. Show your collection.",
     "websiteLink": "https://enft.so/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Erg3D Coins",
     "description": "3D Coins representing projects in the Ergo ecosystem. Gifted to the",
     "websiteLink": "https://erg3dcoins.com/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "ERGkleure",
     "description": "Argentinean artist and creator of unique NFTs in Ergo.",
     "websiteLink": "https://ergkleure.com/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "ERGnomes.io",
     "description": "ERGnomes are highly creative, fun and original NFTs on the Ergo Platform - A blend of algorithmically modified hand-drawn art and technology, using Ergo Platform's smart contracts to make this a pioneering NFT Project.",
     "websiteLink": "https://ergnomes.io/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Ergo Monsters",
     "description": "ERGO monsters are collectable NFT’s monsters at Ergo’s platform",
     "websiteLink": "https://ergomonsters.xyz/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Ergo Stonks",
     "description": "Unique and pretty cool NFT collection inspired by the famous \"Stonks\" meme.",
     "websiteLink": "https://ergostonks.com/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Ergodonkey",
     "description": "Ergodonkey is a collection of unique collectibles placed on the Ergo blockchain. The individual Ergodonkey NFTs were AI-generated, assuring that every Ergodonkey NFT is totally unique!",
     "websiteLink": "https://ergodonkey.org/#home",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Ergomon",
     "description": "Pixel Pokémon NFT Collection. Gotta collect 'em all! Pick up your favorite classic Pokémon as we progress through the Kanto region.",
     "websiteLink": "http://www.ergomon.io/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Ergosaurs",
     "description": "Ergosaurs are a series of hand-drawn collectible NFT's, 1 out of 1 dinosaurs. Each Ergosaur is one-of-a-kind and hand-drawn, with a strive to create rarity and pride in ownership.",
     "websiteLink": "https://ergosaurs.io/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "ErgoZX",
     "description": "ERGOZX is a collection of 100 unique algorithmically generated NFTs for ZX Spectrum 48k.",
     "websiteLink": "https://ergozx.com/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "ERGYOROI",
     "description": "ERGYOROI ARE LIMITED HAND DRAWN ERGO NFTs, COMES FROM JAPANESE WORDS THE Ō-YOROI (大鎧) WHICH MEANS \\\"GREAT ARMOR\\\". FOR THE MOST PART THE Ō-YOROI WAS A RICH MAN'S ARMOR AND NOT USED BY LOWER RANKING SAMURAI.",
     "websiteLink": "https://ergyoroi.com/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Hopium Records",
     "description": "Exploring the new musical, artistic and societal possibilities,",
     "websiteLink": "https://www.hopiumrecords.io/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Pixely Ergo NFTs",
     "description": "Pixely Ergo is a Pixel art NFT project built on ERGO blockchain, collections created to be unique in different themes of pixel art using a variety of unique traits with some utility.",
     "websiteLink": "https://www.pixelyergo.com/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Screaming ERGoat Wine Club",
     "description": "Screaming ERGoats are one of a kind NFTs exclusive to the Ergo Blockchain. Each Screaming Goat is unique, hand drawn and built from over 200 different parts. No two goats will ever be the same.",
     "websiteLink": "https://www.ergoat.com/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Sigma Village",
     "description": "Sigma Village is an NFT collection built exclusively on the Ergo blockchain!",
     "websiteLink": "https://sigmavillage.com/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Space Farmers",
     "description": "Space Farmers is an NFT project exclusively",
     "websiteLink": "https://www.spacefarmers.shop/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "Σrglyph",
     "description": "A series of animated gifs on the Ergo Blockchain.  Each unique NFT collage explores a city, a state, an imagined space.",
     "websiteLink": "http://www.doctoreddouglass.com/",
-    "category": "NFTs"
+    "category": "NFTs",
+    "projectCategories": [
+      "NFTs"
+    ]
   },
   {
     "name": "ErgoMixer",
     "description": "ErgoMixer is a web application for mixing ergs and tokens based on Ergo platform. ErgoMixer is completely serverless; It only needs to connect to the explorer and a node (any node! no api_key is needed).",
     "websiteLink": "https://github.com/ergoMixer/ergoMixBack",
-    "category": "Privacy"
+    "category": "Privacy",
+    "projectCategories": [
+      "Privacy"
+    ]
   },
   {
     "name": "Zero-Knowledge Treasury",
     "description": "Ergo’s Zero-Knowledge Treasury enables users to easily create joint digital signatures, with bespoke conditions for spending funds, while ensuring the signatories to the created address remain hidden.",
     "websiteLink": "https://github.com/anon-real/DistributedSigsServer",
-    "category": "Privacy"
+    "category": "Privacy",
+    "projectCategories": [
+      "Privacy"
+    ]
   },
   {
     "name": "Comet",
     "description": "MEME MONEY FOR ORDINARY PEOPLE",
     "websiteLink": "https://thecomettoken.com/",
-    "category": "Tokens"
+    "category": "Tokens",
+    "projectCategories": [
+      "Tokens"
+    ]
   },
   {
     "name": "Erdoge",
     "description": "Don't buy it.",
     "websiteLink": "http://erdoge.biz/",
-    "category": "Tokens"
+    "category": "Tokens",
+    "projectCategories": [
+      "Tokens"
+    ]
   },
   {
     "name": "Luna Dog Coin",
     "description": "Bring a little fun and levity to the often overly serious crypto world.",
     "websiteLink": "https://lunadogcoin.com/",
-    "category": "Tokens"
+    "category": "Tokens",
+    "projectCategories": [
+      "Tokens"
+    ]
   },
   {
     "name": "Borscht Drop",
     "description": "Airdrop Tool for ordinary people.",
     "websiteLink": "https://www.sigmavalley.org/airdrop",
-    "category": "Tooling"
+    "category": "Tooling",
+    "projectCategories": [
+      "Tooling"
+    ]
   },
   {
     "name": "CYTI - Choose Your Token ID",
     "description": "A decentralized service allowing token minter to choose a specific pattern for the beginning of their token ID. This can be convenient and add some values to the tokens or token collections.",
     "websiteLink": "https://github.com/ThierryM1212/cyti",
-    "category": "Tooling"
+    "category": "Tooling",
+    "projectCategories": [
+      "Tooling"
+    ]
   },
   {
     "name": "Ergo NFT Bulk Minter",
     "description": "This program will allow users to easily mint NFTs on the Ergo",
     "websiteLink": "https://github.com/mgpai22/ergo-nft-bulk-minter",
-    "category": "Tooling"
+    "category": "Tooling",
+    "projectCategories": [
+      "Tooling"
+    ]
   },
   {
     "name": "Ergo Payment Portal",
     "description": "Ergo Payment Portal intends to ease Ergo payments for small businesses and personal usage. It provides a way to integrate Ergo or SigUSD payments in other applications, allowing to request a payment from a URL.",
     "websiteLink": "https://thierrym1212.github.io/paymentportal/about.html",
-    "category": "Tooling"
+    "category": "Tooling",
+    "projectCategories": [
+      "Tooling"
+    ]
   },
   {
     "name": "Ergo Token Minter",
     "description": "Ergo Token Minter is a dApp to mint and burn ergo tokens using Yoroi dApp connector.",
     "websiteLink": "https://thierrym1212.github.io/tokenminter/",
-    "category": "Tooling"
+    "category": "Tooling",
+    "projectCategories": [
+      "Tooling"
+    ]
   },
   {
     "name": "Ergo Transaction Builder",
     "description": "Ergo Transaction Builder allows you to have a UI to manipulate the code (json) of Ergo transactions.",
     "websiteLink": "https://thierrym1212.github.io/txbuilder/",
-    "category": "Tooling"
+    "category": "Tooling",
+    "projectCategories": [
+      "Tooling"
+    ]
   },
   {
     "name": "Ergo Utils",
     "description": "Ergo Utils is an app that contains different useful functionalities for all users. It is easy to use and supports all wallets. Currently, issuing new tokens and artwork NFTs are supported and more utilities will come to it soon.",
     "websiteLink": "https://ergoutils.org/",
-    "category": "Tooling"
+    "category": "Tooling",
+    "projectCategories": [
+      "Tooling"
+    ]
   },
   {
     "name": "ErgoPay Showcase",
     "description": "ErgoPay is a non-web extension wallet dApp connector. This example demonstrates a dynamic ErgoPay link. Can also be used to mint and burn tokens on mobile.",
     "websiteLink": "https://golfgl.de/ergopayshowcase/#",
-    "category": "Tooling"
+    "category": "Tooling",
+    "projectCategories": [
+      "Tooling"
+    ]
   },
   {
     "name": "ErgoVision",
     "description": "ErgoVision is a wallet and transaction analysis tool that can be used to visualize transactions on the Ergo network.",
     "websiteLink": "https://github.com/CryptoCream/ErgoVision",
-    "category": "Tooling"
+    "category": "Tooling",
+    "projectCategories": [
+      "Tooling"
+    ]
   },
   {
     "name": "KuPyBot",
     "description": "Kucoin buy low sell high bot.",
     "websiteLink": "https://github.com/FlyingPig5/KuPyBot",
-    "category": "Tooling"
+    "category": "Tooling",
+    "projectCategories": [
+      "Tooling"
+    ]
   },
   {
     "name": "Machina Finance",
     "description": "Create order boxes with Grid Order/Limit Order.",
     "websiteLink": "https://github.com/machinafi",
-    "category": "Tooling"
+    "category": "Tooling",
+    "projectCategories": [
+      "Tooling"
+    ]
   },
   {
     "name": "Off the Grid",
     "description": "Decentralized grid trading on Ergo.",
     "websiteLink": "https://github.com/Telefragged/off-the-grid",
-    "category": "Tooling"
+    "category": "Tooling",
+    "projectCategories": [
+      "Tooling"
+    ]
   },
   {
     "name": "SigUSD on Cryptocurrency Checkout",
     "description": "Cryptocurrency Checkout is a Non-Custodial Payment Gateway providing plugins that make accepting multiple cryptocurrencies for your products and services as easy as entering your wallet addresses, and copying some code into your website or application.",
     "websiteLink": "https://cryptocurrencycheckout.com/coin/ergo",
-    "category": "Tooling"
+    "category": "Tooling",
+    "projectCategories": [
+      "Tooling"
+    ]
   },
   {
     "name": "Degens Wallet",
     "description": "Your self-custody Ergo wallet with built-in token swaps, dApp browser, and full EIP-12 signing support.",
     "websiteLink": "https://swap.degens.world/download",
-    "category": "Wallets"
+    "category": "Wallets",
+    "projectCategories": [
+      "Wallets"
+    ]
   },
   {
     "name": "Ergo Full Node",
     "description": "Run a node on the Ergo network. The official Ergo Platform full node wallet.",
     "websiteLink": "https://github.com/ergoplatform/ergo/wiki/Set-up-a-full-node",
-    "category": "Wallets"
+    "category": "Wallets",
+    "projectCategories": [
+      "Wallets"
+    ]
   },
   {
     "name": "Ergo Mobile Wallet",
     "description": "Official Ergo Mobile Wallet for Android and iOS. Lightweight and simple to use.",
     "websiteLink": "https://ergoplatform.org/en/mobile-wallets/",
-    "category": "Wallets"
+    "category": "Wallets",
+    "projectCategories": [
+      "Wallets"
+    ]
   },
   {
     "name": "Ergo Paper Wallet",
     "description": "Ergo Paper Wallet is an easy-to-use cold wallet generator for Ergo Platform. With it is possible to completely offline generate a foldable and tamper-resistant paper wallet.",
     "websiteLink": "https://ergopaperwallet.org/",
-    "category": "Wallets"
+    "category": "Wallets",
+    "projectCategories": [
+      "Wallets"
+    ]
   },
   {
     "name": "Ergo Rust Node",
     "description": "Independent Rust full node for the Ergo blockchain. Strict consensus parity with the Scala reference.",
     "websiteLink": "https://github.com/arkadianet/ergo",
-    "category": "Wallets"
+    "category": "Wallets",
+    "projectCategories": [
+      "Wallets"
+    ]
   },
   {
     "name": "Ergo Wallets",
     "description": "Website to view information on wallets created on the Ergo blockchain.",
     "websiteLink": "https://ergowallets.org/",
-    "category": "Wallets"
+    "category": "Wallets",
+    "projectCategories": [
+      "Wallets"
+    ]
   },
   {
     "name": "EWC - Ergo Wallet CLI",
     "description": "Command line interface tool for Ergo built with Fleet SDK and typescript.",
     "websiteLink": "https://github.com/ThierryM1212/ewc",
-    "category": "Wallets"
+    "category": "Wallets",
+    "projectCategories": [
+      "Wallets"
+    ]
   },
   {
     "name": "Ledger",
     "description": "The all-in-one crypto app Your assets. Your rules. Your future.",
     "websiteLink": "https://support.ledger.com/article/6892461437597-zd",
-    "category": "Wallets"
+    "category": "Wallets",
+    "projectCategories": [
+      "Wallets"
+    ]
   },
   {
     "name": "Minotaur Wallet",
     "description": "The first multi-platform wallet for ergo. Cold wallet",
     "websiteLink": "https://github.com/minotaur-ergo/minotaur-wallet",
-    "category": "Wallets"
+    "category": "Wallets",
+    "projectCategories": [
+      "Wallets"
+    ]
   },
   {
     "name": "Nautilus",
     "description": "Privacy Wallet Designed for Ergo Network. Built-in secrecy, sourcing parts from unnamed sources. Roams the seas beyond the reach of land-based governments.",
     "websiteLink": "https://chrome.google.com/webstore/detail/nautilus-wallet/gjlmehlldlphhljhpnlddaodbjjcchai",
-    "category": "Wallets"
+    "category": "Wallets",
+    "projectCategories": [
+      "Wallets"
+    ]
   },
   {
     "name": "SAFEW",
     "description": "Simple And Fast Ergo Wallet. Dapp connector and mixer functionality.",
     "websiteLink": "https://github.com/ThierryM1212/SAFEW",
-    "category": "Wallets"
+    "category": "Wallets",
+    "projectCategories": [
+      "Wallets"
+    ]
   },
   {
     "name": "Satergo",
     "description": "Desktop wallet for the cryptocurrency Ergo with embedded node functionality.",
     "websiteLink": "https://satergo.com/",
-    "category": "Wallets"
+    "category": "Wallets",
+    "projectCategories": [
+      "Wallets"
+    ]
   },
   {
     "name": "Volt Wallet",
     "description": "The all-in-one mobile wallet for Ergo power users.",
     "websiteLink": "https://mart-taupe.vercel.app/",
-    "category": "Wallets"
+    "category": "Wallets",
+    "projectCategories": [
+      "Wallets"
+    ]
   },
   {
     "name": "Zelcore",
     "description": "A secure, non-custodial wallet offering true asset ownership.",
     "websiteLink": "https://zelcore.io/",
-    "category": "Wallets"
+    "category": "Wallets",
+    "projectCategories": [
+      "Wallets"
+    ]
   }
 ]

@@ -35,13 +35,6 @@
     "projectCategories": "Archive"
   },
   {
-    "name": "Banxa",
-    "description": "Convert cryptocurrency to fiat or buy crypto with ease using Banxa. Fast, secure, and compliant fiat-to-crypto solutions trusted by businesses worldwide.",
-    "websiteLink": "https://checkout.banxa.com/?coinType=ERG",
-    "category": null,
-    "projectCategories": "OnRamp/Swap"
-  },
-  {
     "name": "Dappstep",
     "description": "Interactive tutorials for javascript dApp development on Ergo Platform.",
     "websiteLink": "https://play.dappstep.com/",
@@ -252,13 +245,6 @@
     "projectCategories": "Archive"
   },
   {
-    "name": "Voltpay",
-    "description": "Convert cryptocurrency to gift cards instantly. Secure & trusted platform.",
-    "websiteLink": "https://voltpay.store/",
-    "category": null,
-    "projectCategories": "OnRamp/Swap"
-  },
-  {
     "name": "Whalesburg Mining Platform",
     "description": "Reborn from the ashes. Proven trustworthy team, new spirit, new",
     "websiteLink": "https://whalesburg.com",
@@ -271,167 +257,6 @@
     "websiteLink": "https://yoroi-wallet.com/#/",
     "category": null,
     "projectCategories": "Archive"
-  },
-  {
-    "name": "Bene",
-    "description": "Decentralized Fundraising Platform.",
-    "websiteLink": "https://ergo.bene.stability.nexus/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "Citadel",
-    "description": "A local-first desktop app for interacting with DeFi protocols on the Ergo blockchain. Connects directly to your Ergo node -- no cloud services, no tracking, no middlemen.",
-    "websiteLink": "https://github.com/arkadianet/citadel",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "Crux Finance",
-    "description": "Track your portolio and interact with DeFi in one place. Set alerts, place orders, monitor P&L, and even print tax reports.",
-    "websiteLink": "https://cruxfinance.io/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "Crystalpool",
-    "description": "Decentralized Exchange.",
-    "websiteLink": "https://crystalpool.cc/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "Degens World",
-    "description": "The ultimate hub for blockchain degens across multiple chains. Discover dapps, connect with communities, and stay updated with the latest in crypto and AI.",
-    "websiteLink": "https://degens.world/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "Duckpools",
-    "description": "Decentralized Lending on Ergo.",
-    "websiteLink": "https://www.duckpools.io/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "Ergo Raffle",
-    "description": "Ergo Raffle is an incentivized crowdfunding platform for the community to gather funding for their ideas.",
-    "websiteLink": "https://ergoraffle.com/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "ERGODEX",
-    "description": "A non-custodial, decentralised exchange that allows a quick, effortless and secure transfer of liquidity between the Ergo and Cardano networks.",
-    "websiteLink": "https://ergodex.io/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "ErgoNames",
-    "description": "A human-readable name for your Ergo wallet — an NFT you own for life. No renewals, no expiry, no middlemen able to take it back.",
-    "websiteLink": "https://www.ergonames.io/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "Ergone",
-    "description": "Decentralised Marketing Powered by Community.",
-    "websiteLink": "https://www.ergone.io/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "Etcha",
-    "description": "Decentralized options on Ergo. Write calls and puts on crypto, commodities, and indices — peer-to-peer or through permissionless liquidity pools. Physical delivery of real tokens. Cash settlement in stablecoins.",
-    "websiteLink": "https://ergo-p2p-options-frontend-web.vercel.app/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "Exle",
-    "description": "A P2P lending platform with easy to use tools to borrow and lend",
-    "websiteLink": "https://exle.io/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "Gluon",
-    "description": "A novel autonomous crypto-backed stablecoin protocol.",
-    "websiteLink": "https://gluon.gold/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "Hodlcoin",
-    "description": "Self-Stabilizing Staking vaults where the price is mathematically proven to always increase!",
-    "websiteLink": "https://app.hodlcoin.co.in/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "Mew Finance",
-    "description": "The cutest decentralized finance on the Ergo Blockchain!",
-    "websiteLink": "https://mewfinance.com/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "Paideia",
-    "description": "Paideia is an Ergopad incubated project, bringing a full suite of",
-    "websiteLink": "https://paideia.im/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "PhoenixFi",
-    "description": "Self-Stabilizing Staking vaults where the price is mathematically proven to always increase!",
-    "websiteLink": "https://www.phoenixfi.app/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "Rosen Bridge",
-    "description": "Rosen Bridge, an open-source protocol for cross-chain asset transfers.",
-    "websiteLink": "https://rosen.tech/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "SigmaFi",
-    "description": "A set of decentralized financial contracts which leverage the eUTXO model to allow for easy to use P2P DeFi.",
-    "websiteLink": "https://sigmafi.app/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "SigmaO",
-    "description": "The goal of the project is to provide a smart contract allowing to issue tokens behaving like an option.",
-    "websiteLink": "https://sigmao.cc/",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "SigmaUSD",
-    "description": "Experience the latest advancements in Stablecoins by buying and",
-    "websiteLink": "https://sigmausd.io",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "TokenJay",
-    "description": "TokenJay empowers Ergo's token ecosystem.",
-    "websiteLink": "https://tokenjay.app/app/#",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
-  },
-  {
-    "name": "TrufflΣ",
-    "description": "TrufflΣ is a fast, self-custodial mobile trading app and wallet for the Ergo blockchain. It's built for traders who want to act quickly without giving up control.",
-    "websiteLink": "https://github.com/FlyingPig5/truffle",
-    "category": "dApps",
-    "projectCategories": "Updated-1784018069"
   },
   {
     "name": " hergmes",
@@ -1113,6 +938,20 @@
     "projectCategories": "NFTs"
   },
   {
+    "name": "Banxa",
+    "description": "Convert cryptocurrency to fiat or buy crypto with ease using Banxa. Fast, secure, and compliant fiat-to-crypto solutions trusted by businesses worldwide.",
+    "websiteLink": "https://checkout.banxa.com/?coinType=ERG",
+    "category": null,
+    "projectCategories": "OnRamp/Swap"
+  },
+  {
+    "name": "Voltpay",
+    "description": "Convert cryptocurrency to gift cards instantly. Secure & trusted platform.",
+    "websiteLink": "https://voltpay.store/",
+    "category": null,
+    "projectCategories": "OnRamp/Swap"
+  },
+  {
     "name": "ErgoMixer",
     "description": "ErgoMixer is a web application for mixing ergs and tokens based on Ergo platform. ErgoMixer is completely serverless; It only needs to connect to the explorer and a node (any node! no api_key is needed).",
     "websiteLink": "https://github.com/ergoMixer/ergoMixBack",
@@ -1237,6 +1076,167 @@
     "websiteLink": "https://cryptocurrencycheckout.com/coin/ergo",
     "category": "Tooling",
     "projectCategories": "Tooling"
+  },
+  {
+    "name": "Bene",
+    "description": "Decentralized Fundraising Platform.",
+    "websiteLink": "https://ergo.bene.stability.nexus/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "Citadel",
+    "description": "A local-first desktop app for interacting with DeFi protocols on the Ergo blockchain. Connects directly to your Ergo node -- no cloud services, no tracking, no middlemen.",
+    "websiteLink": "https://github.com/arkadianet/citadel",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "Crux Finance",
+    "description": "Track your portolio and interact with DeFi in one place. Set alerts, place orders, monitor P&L, and even print tax reports.",
+    "websiteLink": "https://cruxfinance.io/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "Crystalpool",
+    "description": "Decentralized Exchange.",
+    "websiteLink": "https://crystalpool.cc/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "Degens World",
+    "description": "The ultimate hub for blockchain degens across multiple chains. Discover dapps, connect with communities, and stay updated with the latest in crypto and AI.",
+    "websiteLink": "https://degens.world/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "Duckpools",
+    "description": "Decentralized Lending on Ergo.",
+    "websiteLink": "https://www.duckpools.io/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "Ergo Raffle",
+    "description": "Ergo Raffle is an incentivized crowdfunding platform for the community to gather funding for their ideas.",
+    "websiteLink": "https://ergoraffle.com/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "ERGODEX",
+    "description": "A non-custodial, decentralised exchange that allows a quick, effortless and secure transfer of liquidity between the Ergo and Cardano networks.",
+    "websiteLink": "https://ergodex.io/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "ErgoNames",
+    "description": "A human-readable name for your Ergo wallet — an NFT you own for life. No renewals, no expiry, no middlemen able to take it back.",
+    "websiteLink": "https://www.ergonames.io/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "Ergone",
+    "description": "Decentralised Marketing Powered by Community.",
+    "websiteLink": "https://www.ergone.io/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "Etcha",
+    "description": "Decentralized options on Ergo. Write calls and puts on crypto, commodities, and indices — peer-to-peer or through permissionless liquidity pools. Physical delivery of real tokens. Cash settlement in stablecoins.",
+    "websiteLink": "https://ergo-p2p-options-frontend-web.vercel.app/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "Exle",
+    "description": "A P2P lending platform with easy to use tools to borrow and lend",
+    "websiteLink": "https://exle.io/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "Gluon",
+    "description": "A novel autonomous crypto-backed stablecoin protocol.",
+    "websiteLink": "https://gluon.gold/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "Hodlcoin",
+    "description": "Self-Stabilizing Staking vaults where the price is mathematically proven to always increase!",
+    "websiteLink": "https://app.hodlcoin.co.in/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "Mew Finance",
+    "description": "The cutest decentralized finance on the Ergo Blockchain!",
+    "websiteLink": "https://mewfinance.com/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "Paideia",
+    "description": "Paideia is an Ergopad incubated project, bringing a full suite of",
+    "websiteLink": "https://paideia.im/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "PhoenixFi",
+    "description": "Self-Stabilizing Staking vaults where the price is mathematically proven to always increase!",
+    "websiteLink": "https://www.phoenixfi.app/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "Rosen Bridge",
+    "description": "Rosen Bridge, an open-source protocol for cross-chain asset transfers.",
+    "websiteLink": "https://rosen.tech/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "SigmaFi",
+    "description": "A set of decentralized financial contracts which leverage the eUTXO model to allow for easy to use P2P DeFi.",
+    "websiteLink": "https://sigmafi.app/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "SigmaO",
+    "description": "The goal of the project is to provide a smart contract allowing to issue tokens behaving like an option.",
+    "websiteLink": "https://sigmao.cc/",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "SigmaUSD",
+    "description": "Experience the latest advancements in Stablecoins by buying and",
+    "websiteLink": "https://sigmausd.io",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "TokenJay",
+    "description": "TokenJay empowers Ergo's token ecosystem.",
+    "websiteLink": "https://tokenjay.app/app/#",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
+  },
+  {
+    "name": "TrufflΣ",
+    "description": "TrufflΣ is a fast, self-custodial mobile trading app and wallet for the Ergo blockchain. It's built for traders who want to act quickly without giving up control.",
+    "websiteLink": "https://github.com/FlyingPig5/truffle",
+    "category": "dApps",
+    "projectCategories": "Updated-1784018069"
   },
   {
     "name": "Degens Wallet",

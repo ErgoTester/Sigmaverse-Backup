@@ -26,12 +26,20 @@ async function fetchAllProjects() {
     }
 
     projects.push(
-      ...data.map((item) => ({
-        name: item.attributes.name,
-        description: item.attributes.description,
-        websiteLink: item.attributes.websiteLink,
-        category: item.attributes.categories?.projectCategories ?? null,
-      }))
+      ...data.map((item) => {
+        const attrs = item.attributes;
+
+        return {
+          name: attrs.name,
+          description: attrs.description,
+          websiteLink: attrs.websiteLink,
+          category: attrs.categories?.projectCategories ?? null,
+          projectCategories:
+            attrs.project_categories?.data?.map(
+              (category) => category.attributes.title
+            ) ?? [],
+        };
+      })
     );
 
     const pagination = json.meta?.pagination;

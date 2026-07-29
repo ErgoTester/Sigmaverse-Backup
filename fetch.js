@@ -34,10 +34,7 @@ async function fetchAllProjects() {
           description: attrs.description,
           websiteLink: attrs.websiteLink,
           category: attrs.categories?.projectCategories ?? null,
-          projectCategories:
-            attrs.project_categories?.data?.map(
-              (category) => category.attributes.title
-            ) ?? [],
+          projectCategories: attrs.project_categories?.data?.[0]?.attributes.title ?? null,
         };
       })
     );

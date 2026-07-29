@@ -1,0 +1,8 @@
+{
+  "name": "ergo-project-sync",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node fetch.js"
+  }
+}

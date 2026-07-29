@@ -1,6 +1,6 @@
 import fs from "fs/promises";
 
-const BASE =
+const BASE_URL =
   "https://sigma-admin.ergoplatform.com/api/project-cards";
 
 async function fetchAllProjects() {
@@ -8,33 +8,39 @@ async function fetchAllProjects() {
   let page = 1;
 
   while (true) {
-    const url =
-      `${BASE}?populate=*&pagination[pageSize]=100&pagination[page]=${page}`;
+    const url = `${BASE_URL}?populate=*&pagination[pageSize]=100&pagination[page]=${page}`;
 
     console.log(`Fetching page ${page}...`);
 
     const res = await fetch(url);
 
     if (!res.ok) {
-      throw new Error(`HTTP ${res.status}`);
+      throw new Error(`Failed to fetch page ${page}: ${res.status}`);
     }
 
     const json = await res.json();
-
     const data = json.data ?? [];
 
-    if (data.length === 0) break;
+    // No more results
+    if (data.length === 0) {
+      break;
+    }
 
     projects.push(
       ...data.map((item) => ({
         name: item.attributes.name,
         description: item.attributes.description,
         websiteLink: item.attributes.websiteLink,
+        categories:
+          item.attributes.project_categories?.data?.map(
+            (category) => category.attributes.title
+          ) ?? [],
       }))
     );
 
     const pagination = json.meta?.pagination;
 
+    // Last page
     if (!pagination || page >= pagination.pageCount) {
       break;
     }
@@ -45,13 +51,26 @@ async function fetchAllProjects() {
   return projects;
 }
 
-const projects = await fetchAllProjects();
+async function main() {
+  try {
+    const projects = await fetchAllProjects();
 
-await fs.mkdir("data", { recursive: true });
+    // Sort alphabetically
+    projects.sort((a, b) => a.name.localeCompare(b.name));
 
-await fs.writeFile(
-  "data/projects.json",
-  JSON.stringify(projects, null, 2)
-);
+    await fs.mkdir("data", { recursive: true });
 
-console.log(`Saved ${projects.length} projects.`);
+    await fs.writeFile(
+      "data/projects.json",
+      JSON.stringify(projects, null, 2),
+      "utf8"
+    );
+
+    console.log(`✅ Saved ${projects.length} projects to data/projects.json`);
+  } catch (err) {
+    console.error(err);
+    process.exit(1);
+  }
+}
+
+main();

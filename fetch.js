@@ -21,7 +21,6 @@ async function fetchAllProjects() {
     const json = await res.json();
     const data = json.data ?? [];
 
-    // No more results
     if (data.length === 0) {
       break;
     }
@@ -31,16 +30,12 @@ async function fetchAllProjects() {
         name: item.attributes.name,
         description: item.attributes.description,
         websiteLink: item.attributes.websiteLink,
-        categories:
-          item.attributes.project_categories?.data?.map(
-            (category) => category.attributes.title
-          ) ?? [],
+        category: item.attributes.categories?.projectCategories ?? null,
       }))
     );
 
     const pagination = json.meta?.pagination;
 
-    // Last page
     if (!pagination || page >= pagination.pageCount) {
       break;
     }
@@ -55,8 +50,18 @@ async function main() {
   try {
     const projects = await fetchAllProjects();
 
-    // Sort alphabetically
-    projects.sort((a, b) => a.name.localeCompare(b.name));
+    projects.sort((a, b) => {
+      const categoryA = a.category ?? "";
+      const categoryB = b.category ?? "";
+
+      const categoryCompare = categoryA.localeCompare(categoryB);
+
+      if (categoryCompare !== 0) {
+        return categoryCompare;
+      }
+
+      return a.name.localeCompare(b.name);
+    });
 
     await fs.mkdir("data", { recursive: true });
 

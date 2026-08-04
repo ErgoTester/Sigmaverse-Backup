@@ -676,7 +676,6 @@
     "description": "Bitmasks is a cross-chain NFT collection on Ergo and Cardano.",
     "websiteLink": "https://bitmasks.io/#",
     "category": "NFTs"
-
   },
   {
     "name": "CoinCharacters",
@@ -785,7 +784,6 @@
     "description": "Screaming ERGoats are one of a kind NFTs exclusive to the Ergo Blockchain. Each Screaming Goat is unique, hand drawn and built from over 200 different parts. No two goats will ever be the same.",
     "websiteLink": "https://www.ergoat.com/",
     "category": "NFTs"
-
   },
   {
     "name": "Sigma Village",
@@ -809,15 +807,13 @@
     "name": "Banxa",
     "description": "Convert cryptocurrency to fiat or buy crypto with ease using Banxa. Fast, secure, and compliant fiat-to-crypto solutions trusted by businesses worldwide.",
     "websiteLink": "https://checkout.banxa.com/?coinType=ERG",
-    "category": "OnRamp/Swap",
-    "projectCategories": "OnRamp/Swap"
+    "category": "OnRamp/Swap"
   },
   {
     "name": "Voltpay",
     "description": "Convert cryptocurrency to gift cards instantly. Secure & trusted platform.",
     "websiteLink": "https://voltpay.store/",
-    "category": "OnRamp/Swap",
-    "projectCategories": "OnRamp/Swap"
+    "category": "OnRamp/Swap"
   },
   {
     "name": "Comet",

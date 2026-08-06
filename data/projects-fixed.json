@@ -1145,5 +1145,29 @@
     "description": "A secure, non-custodial wallet offering true asset ownership.",
     "websiteLink": "https://zelcore.io/",
     "category": "Wallets"
+  },
+  {
+    "name": "ErgoScript IntelliJ",
+    "description": "ErgoScript LSP and IntelliJ 2026.2+ Plugin.",
+    "websiteLink": "https://github.com/Lithos-Protocol/ErgoScript-IntelliJ/",
+    "category": "Dev"
+  },
+  {
+    "name": "Plasma Toolkit",
+    "description": "An Ergo-Appkit based library providing an abstraction layer to easily interact with AVL Trees as an L2 Solution.",
+    "websiteLink": "https://github.com/K-Singh/Plasma-Toolkit/",
+    "category": "Dev"
+  },
+  {
+    "name": "ERGO.games",
+    "description": "Your TV, phone, and tablet are one device — a shared room where everyone plays together without buying new hardware.",
+    "websiteLink": "https://ergo.games/",
+    "category": "Gaming"
+  },
+  {
+    "name": "Lumen",
+    "description": "Real-time dashboard for node & oracle runners.Not another RPC table — something you can *see*.",
+    "websiteLink": "https://ergolumen.net/",
+    "category": "Explore"
   }
 ]

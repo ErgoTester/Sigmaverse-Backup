@@ -171,7 +171,7 @@
     "name": "PandaV",
     "description": "A blockchain base access control system can provide a secure way to manage access rights and ownership.",
     "websiteLink": "https://www.pandav.io/",
-    "category": "Dapp"
+    "category": "dApps"
   },
   {
     "name": "SigmaExplorer",
@@ -1174,6 +1174,6 @@
     "name": "Pulse",
     "description": "Multi-Chain Decentralized Chat.",
     "websiteLink": "https://multipulse.vercel.app/",
-    "category": "Dapp"
+    "category": "dApps"
   }
 ]
